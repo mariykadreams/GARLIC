@@ -14,9 +14,27 @@ This repository accompanies the paper:
 > *Seasoning Data Modeling Education with GARLIC: A Participatory Co-Design Framework*  
 > TODO: add paper link, add bib for those who wants to cite.
 
+## Contents
+
+- [What Is GARLIC?](#what-is-garlic)
+- [Core Teaching Materials](#core-teaching-materials)
+- [Card Design and Color Coding](#card-design-and-color-coding)
+- [Scenario Cards](#1-scenario-cards)
+- [Role Cards (Voices)](#2-role-cards-voices)
+  - [Mandatory vs. Optional Role Cards](#mandatory-vs-optional-role-cards)
+- [ONION Stage Cards](#3-onion-stage-cards-participatory-framework)
+- [How Many People Do You Need?](#how-many-people-do-you-need)
+- [Workshop Flow](#workshop-flow-high-level)
+- [Adapting Complexity by Student Seniority](#adapting-complexity-by-student-seniority)
+- [What This Teaches](#what-this-teaches)
+- [What This Repository Is (and Is Not)](#what-this-repository-is-and-is-not)
+- [License and Reuse](#license-and-reuse)
+- [Citation](#citation)
+
 ---
 
 ## What Is GARLIC?
+#what-is-garlic
 
 GARLIC (Generalized, Accessible, RelationaL, Inclusive Co-Design) is an
 **educational methodology** for teaching participatory ER modeling through a
@@ -36,6 +54,7 @@ Rather than asking *“Is the ER diagram technically correct?”*, GARLIC asks:
 ---
 
 ## Core Teaching Materials
+#core-teaching-materials
 
 The workshop is built around **four types of cards**:
 
@@ -50,6 +69,7 @@ distinguishable by color**.
 ---
 
 ## Card Design and Color Coding
+#card-design-and-color-coding
 
 All cards are **color-coded** to reduce cognitive load and to make transitions
 between activities explicit during facilitation.
@@ -71,6 +91,7 @@ participants recognize whether they are framing, advocating, or coordinating.
 ---
 
 ## 1. Scenario Cards
+#1-scenario-cards
 
 ### What They Are
 A **Scenario Card** defines the shared design space for the workshop.
@@ -97,6 +118,7 @@ are justified.
 ---
 
 ## 2. Role Cards (Voices)
+#2-role-cards-voices
 
 ### What They Are
 Each **Role Card** represents a **voice** in the design process.
@@ -131,6 +153,7 @@ the participatory process is considered **incomplete**, not incorrect.
 ---
 
 ## Mandatory vs. Optional Role Cards
+#mandatory-vs-optional-role-cards
 
 For each scenario, GARLIC distinguishes between:
 
@@ -167,6 +190,7 @@ Each added Role Card adds a **voice that must be preserved** in the final model.
 ---
 
 ## 3. ONION Stage Cards (Participatory Framework)
+#3-onion-stage-cards-participatory-framework
 
 ### What They Are
 ONION Stage Cards represent the **participatory process**, adapted from the ONION
@@ -192,6 +216,7 @@ Stages are revealed **one at a time** and may be revisited.
 ---
 
 ## How Many People Do You Need?
+#how-many-people-do-you-need
 
 ### Minimum Viable Setup
 - **3 participants**, 1 facilitator, 1 technical consultant (for stages that requires drafting simplified ER models, this can also be done by one of participants with this role as a dedicated responsibility)
@@ -210,6 +235,7 @@ Stages are revealed **one at a time** and may be revisited.
 ---
 
 ## Workshop Flow (High Level)
+#workshop-flow-high-level
 
 1. Introduce the **Scenario Card**
 2. Assign **Role Cards**
@@ -223,6 +249,7 @@ Stages are revealed **one at a time** and may be revisited.
 ---
 
 ## Adapting Complexity by Student Seniority
+#adapting-complexity-by-student-seniority
 
 GARLIC supports **progressive complexity** without changing the core methodology.
 
@@ -246,6 +273,7 @@ GARLIC supports **progressive complexity** without changing the core methodology
 ---
 
 ## What This Teaches
+#what-this-teaches
 
 Students learn:
 - That ER models embed values and priorities from people who will use the system, but also from people who will be indirectly influenced by the system
@@ -256,6 +284,7 @@ Students learn:
 ---
 
 ## What This Repository Is (and Is Not)
+#what-this-repository-is-and-is-not
 
 + A **teaching toolkit**
 + A **replicable workshop methodology**
@@ -268,6 +297,7 @@ Students learn:
 ---
 
 ## License and Reuse
+#license-and-reuse
 
 Materials are provided for **educational and research use**.
 You are encouraged to adapt scenarios and roles to your local context.
@@ -277,5 +307,5 @@ If you use or adapt GARLIC, please cite the accompanying paper.
 ---
 
 ## Citation
-
+#citation
 TODO
