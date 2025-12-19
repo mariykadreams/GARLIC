@@ -309,22 +309,21 @@ If you use or adapt GARLIC, please cite the accompanying paper.
 
 ## Citation
 #citation
+
 ONION participatory framework: 
-> @inproceedings{makovska_onion_partiocipatory_erm,
-> author = {Makovska, Viktoriia and Fletcher, George and Stoyanovich, Julia},
-> title = {ONION: A Multi-Layered Framework for Participatory ER Design},
-> year = {2025},
-> isbn = {9798400719592},
-> publisher = {Association for Computing Machinery},
-> address = {New York, NY, USA},
-> url = {https://doi.org/10.1145/3736733.3736736},
-> doi = {10.1145/3736733.3736736},
-> abstract = {We present ONION, a multi-layered framework for participatory Entity-Relationship (ER) modeling that integrates insights from design justice, participatory AI, and conceptual > modeling. ONION introduces a five-stage methodology: Observe, Nurture, Integrate, Optimize, Normalize. It supports progressive abstraction from unstructured stakeholder input to structured ER>  diagrams.Our approach aims to reduce designer bias, promote inclusive participation, and increase transparency through the modeling process. We evaluate ONION through real-world workshops focused on sociotechnical systems in Ukraine, highlighting how diverse stakeholder engagement leads to richer data models and deeper mutual understanding. Early results demonstrate ONION's potential to host diversity in early-stage data modeling. We conclude with lessons learned, limitations and challenges involved in scaling and refining the framework for broader adoption.},
-> booktitle = {Proceedings of the Workshop on Human-In-the-Loop Data Analytics},
-> articleno = {3},
-> numpages = {7},
-> location = {Intercontinental Berlin, Berlin, Germany},
-> series = {HILDA '25}
-> }
+```bibtex
+@inproceedings{makovska2025onion,
+  author    = {Makovska, Viktoriia and Fletcher, George and Stoyanovich, Julia},
+  title     = {ONION: A Multi-Layered Framework for Participatory ER Design},
+  booktitle = {Proceedings of the Workshop on Human-In-the-Loop Data Analytics},
+  series    = {HILDA '25},
+  year      = {2025},
+  articleno = {3},
+  numpages  = {7},
+  publisher = {Association for Computing Machinery},
+  doi       = {10.1145/3736733.3736736},
+  url       = {https://doi.org/10.1145/3736733.3736736}
+}
+
 
 GARLIC educational methodology: 
