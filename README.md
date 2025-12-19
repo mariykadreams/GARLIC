@@ -88,6 +88,8 @@ A typical color scheme is:
 Color is not decorative; it functions as a **pedagogical signal** that helps
 participants recognize whether they are framing, advocating, or coordinating.
 
+Additional information on stage cards (based on activity type) is provided by the link: 
+[ONION cards: differences and purposes](https://github.com/mariykadreams/GARLIC/blob/main/ONION%20cards/ONION%20cards%20differences%20and%20purposes.md)
 ---
 
 ## 1. Scenario Cards
