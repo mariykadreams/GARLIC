@@ -336,4 +336,13 @@ ONION participatory framework:
 }
 
 
-GARLIC educational methodology: 
+GARLIC educational methodology:
+@misc{makovska2026seasoningdatamodelingeducation,
+      title={Seasoning Data Modeling Education with GARLIC: A Participatory Co-Design Framework}, 
+      author={Viktoriia Makovska and Ihor Michurin and Mariia Tokhtamysh and George Fletcher and Julia Stoyanovich},
+      year={2026},
+      eprint={2602.18274},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2602.18274}, 
+}
